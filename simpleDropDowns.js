@@ -1,5 +1,5 @@
 // Simple Dropdowns
-// Called via onClick="toggleDropDown(this);return false; 
+// Called via onClick="simpleDropDown(this);return false; 
 function simpleDropDown(clickedObj, parentName) { 
 	// "cache" this from onClick call
 	var o_clicked = $(clickedObj);
